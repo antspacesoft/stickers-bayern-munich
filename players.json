@@ -7,6 +7,12 @@
          "name":"Robert Lewandowski",
          "animated_sticker_pack":false,
          "stickers":"15"
+      },
+      {
+         "identifier":"thomasmuller1",
+         "name":"Thomas Muller",
+         "animated_sticker_pack":false,
+         "stickers":"15"
       }
    ]
 }

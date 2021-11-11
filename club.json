@@ -7,6 +7,12 @@
          "name":"Julian Nagelsmann",
          "animated_sticker_pack":false,
          "stickers":"16"
+      },
+      {
+         "identifier":"club1",
+         "name":"Club",
+         "animated_sticker_pack":false,
+         "stickers":"15"
       }
    ]
 }
