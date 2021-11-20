@@ -7,6 +7,12 @@
          "name":"Animated 1",
          "animated_sticker_pack":true,
          "stickers":"16"
+      },
+      {
+         "identifier":"animated2",
+         "name":"Animated 2",
+         "animated_sticker_pack":true,
+         "stickers":"14"
       }
    ]
 }
