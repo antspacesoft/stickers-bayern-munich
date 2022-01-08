@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"robertlewandowski2",
+         "name":"Robert Lewandowski (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"christmas1",
          "name":"Frohe Weihnachten",
          "animated_sticker_pack":false,
@@ -88,7 +94,7 @@
       },
       {
          "identifier":"robertlewandowski1",
-         "name":"Robert Lewandowski",
+         "name":"Robert Lewandowski (1)",
          "animated_sticker_pack":false,
          "stickers":"15"
       },
