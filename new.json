@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"womenteam1",
+         "name":"Women Team 1",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"womenteam2",
+         "name":"Women Team 2",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"ucl2223fg3",
          "name":"vs Viktoria Plzen",
          "animated_sticker_pack":false,
