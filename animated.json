@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"bundesliga2223m9a1",
+         "name":"vs Dortmund (2)",
+         "animated_sticker_pack":true,
+         "stickers":"6"
+      },
+      {
          "identifier":"bundesliga2122m31a1",
          "name":"vs Dortmund",
          "animated_sticker_pack":true,
