@@ -3,8 +3,14 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ucl2223fg4",
+         "name":"vs Viktoria Plzen (2)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
          "identifier":"ucl2223fg3",
-         "name":"vs Viktoria Plzen",
+         "name":"vs Viktoria Plzen (1)",
          "animated_sticker_pack":false,
          "stickers":"28"
       },
