@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"dfbpokal2223f16a",
+         "name":"vs Augsburg (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"dfbpokal2223f16b",
+         "name":"vs Augsburg (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"bundesliga2223m10",
          "name":"vs Freiburg",
          "animated_sticker_pack":false,
