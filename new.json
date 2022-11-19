@@ -3,6 +3,60 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"worldcup2022germany2",
+         "name":"World Cup Germany 1",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"worldcup2022germany3",
+         "name":"World Cup Germany 2",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"worldcup2022jamalmusiala",
+         "name":"Jamal Musiala",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"worldcup2022joshuakimmich",
+         "name":"Joshua Kimmich",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"worldcup2022leongoretzka",
+         "name":"Leon Goretzka",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"worldcup2022leroysane",
+         "name":"Leroy Sane",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"worldcup2022manuelneuer",
+         "name":"Manuel Neuer",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"worldcup2022sergegnabry",
+         "name":"Serge Gnabry",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"worldcup2022thomasmuller2",
+         "name":"Thomas Muller 2",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
          "identifier":"bundesliga2223m15",
          "name":"vs Schalke",
          "animated_sticker_pack":false,
