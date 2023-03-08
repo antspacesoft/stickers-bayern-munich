@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ucl2223o2",
+         "name":"vs PSG (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"ucl2223o3",
+         "name":"vs PSG (3)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"bundesliga2223m23",
          "name":"vs Stuttgart",
          "animated_sticker_pack":false,
