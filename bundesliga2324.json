@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"bundesliga2324m25a",
+         "name":"vs Mainz (1)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"bundesliga2324m25b",
+         "name":"vs Mainz (2)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
          "identifier":"bundesliga2324m24",
          "name":"vs Freiburg",
          "animated_sticker_pack":false,
