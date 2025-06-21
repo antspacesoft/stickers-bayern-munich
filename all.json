@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"clubworldcup2025fg2",
+         "name":"vs Boca Juniors",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"clubworldcup2025fg1",
          "name":"vs Auckland City",
          "animated_sticker_pack":false,
